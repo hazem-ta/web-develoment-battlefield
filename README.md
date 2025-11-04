@@ -28,12 +28,13 @@ Through this course, I’m building a solid understanding of:
 
 ## 🚀 Live Projects
 
-| # | Project              | Description                                     | Live Demo                                                                        |
-| - | -------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------- |
-| 1 | 🧱 Portfolio Website | My first personal website built with HTML & CSS | [View](https://hazem-ta.github.io/web-develoment-camp/01-portfolio/)  |
-| 2 | 🎲 Dice Game         | JavaScript DOM manipulation game                | [View](https://hazem-ta.github.io/web-develoment-camp/02-dice-game/)  |
-| 3 | 🥁 Drum Kit          | Interactive web app using JS events             | [View](https://hazem-ta.github.io/web-develoment-camp/03-drum-kit/)   |
-| 4 | 🧩 Simon Game        | Memory challenge game using jQuery              | [View](https://hazem-ta.github.io/web-develoment-camp/04-simon-game/) |
+| Project           | Description                                     | Live Demo                                                                        |
+| ------------------| ----------------------------------------------- | -------------------------------------------------------------------------------- |
+| Dice Game         | JavaScript DOM manipulation game                | [View](https://hazem-ta.github.io/web-develoment-camp/games/dicee-game/dicee.html)  |
+| Drum Kit          | Interactive web app using JS events             | [View](https://hazem-ta.github.io/web-develoment-camp/games/drum-kit-game/index.html)   |
+| Simon Game        | Memory challenge game using jQuery              | [View](https://hazem-ta.github.io/web-develoment-camp/games/simon-game/index.html) |
+| Dating App        | Dating for dogs (you are read it reight)        | [View](https://hazem-ta.github.io/web-develoment-camp/websites/dating-app-landpage/index.html) |
+| Move It           | Website for shipping company                    | [View](https://hazem-ta.github.io/web-develoment-camp/websites/shipping-company-wesite/index.html) |
 
 
 <br>
