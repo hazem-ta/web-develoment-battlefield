@@ -1,5 +1,5 @@
 const projects = [
-  { name: "Dice Game", path: "../games/dicee-game/dicee.html", img: "../games/dicee-game/images/dice-game-logo.png" },
+  { name: "Dice Game", path: "./games/dicee-game/dicee.html", img: "./games/dicee-game/images/dice-game-logo.png" },
   { name: "Drum Kit Game", path: "../games/drum-kit-game/index.html", img: "../games/drum-kit-game/images/game-logo.png" },
   { name: "Simon Game", path: "../games/simon-game/index.html", img: "../games/simon-game/img/game-logo.png" },
   { name: "Dating App", path: "../websites/dating-app-landpage/index.html", img: "../websites/dating-app-landpage/images/website-logo.png" },
