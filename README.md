@@ -1,9 +1,16 @@
 # 💻 Web Development Bootcamp
 
-This repository contains my practice work, mini-projects, and exercises from **Angela Yu’s Web Development Bootcamp**.  
+This repository contains my practice work, mini-projects  
 I’m using this repo to document my learning journey as I master both **front-end** and **back-end** web development.
 
+To get the live preivews go to the following webpage  
+https://hazem-ta.github.io/web-develoment-camp/
 <br>
+
+![logo](./img-main.png)
+
+
+
 
 ## 🧭 Overview
 
@@ -23,10 +30,10 @@ Through this course, I’m building a solid understanding of:
 
 | # | Project              | Description                                     | Live Demo                                                                        |
 | - | -------------------- | ----------------------------------------------- | -------------------------------------------------------------------------------- |
-| 1 | 🧱 Portfolio Website | My first personal website built with HTML & CSS | [View](https://your-username.github.io/web-dev-bootcamp-practice/01-portfolio/)  |
-| 2 | 🎲 Dice Game         | JavaScript DOM manipulation game                | [View](https://your-username.github.io/web-dev-bootcamp-practice/02-dice-game/)  |
-| 3 | 🥁 Drum Kit          | Interactive web app using JS events             | [View](https://your-username.github.io/web-dev-bootcamp-practice/03-drum-kit/)   |
-| 4 | 🧩 Simon Game        | Memory challenge game using jQuery              | [View](https://your-username.github.io/web-dev-bootcamp-practice/04-simon-game/) |
+| 1 | 🧱 Portfolio Website | My first personal website built with HTML & CSS | [View](https://hazem-ta.github.io/web-develoment-camp/01-portfolio/)  |
+| 2 | 🎲 Dice Game         | JavaScript DOM manipulation game                | [View](https://hazem-ta.github.io/web-develoment-camp/02-dice-game/)  |
+| 3 | 🥁 Drum Kit          | Interactive web app using JS events             | [View](https://hazem-ta.github.io/web-develoment-camp/03-drum-kit/)   |
+| 4 | 🧩 Simon Game        | Memory challenge game using jQuery              | [View](https://hazem-ta.github.io/web-develoment-camp/04-simon-game/) |
 
 
 <br>
