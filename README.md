@@ -34,7 +34,7 @@ Through this course, I’m building a solid understanding of:
 | Drum Kit          | Interactive web app using JS events             | [View](https://hazem-ta.github.io/web-develoment-camp/games/drum-kit-game/index.html)   |
 | Simon Game        | Memory challenge game using jQuery              | [View](https://hazem-ta.github.io/web-develoment-camp/games/simon-game/index.html) |
 | Dating App        | Dating for dogs (you are read it reight)        | [View](https://hazem-ta.github.io/web-develoment-camp/websites/dating-app-landpage/index.html) |
-| Move It           | Website for shipping company                    | [View](https://hazem-ta.github.io/web-develoment-camp/websites/shipping-company-wesite/index.html) |
+| Move It           | Website for shipping company                    | [View](https://hazem-ta.github.io/web-develoment-camp/websites/shipping-company-website/index.html) |
 
 
 <br>
